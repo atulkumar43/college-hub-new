@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/college-hub-new/static/css/main.31d6cfe0.css",
+    "main.js": "/college-hub-new/static/js/main.16f68c45.js",
+    "static/js/453.4af3f2c1.chunk.js": "/college-hub-new/static/js/453.4af3f2c1.chunk.js",
+    "index.html": "/college-hub-new/index.html",
+    "main.16f68c45.js.map": "/college-hub-new/static/js/main.16f68c45.js.map",
+    "453.4af3f2c1.chunk.js.map": "/college-hub-new/static/js/453.4af3f2c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.16f68c45.js"
+  ]
+}
